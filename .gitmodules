@@ -1,3 +1,6 @@
 [submodule "manim"]
 	path = manim
 	url = https://github.com/amar-jay/manim
+[submodule "videos"]
+	path = videos
+	url = https://github.com/3b1b/videos
